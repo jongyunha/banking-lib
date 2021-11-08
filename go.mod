@@ -1,4 +1,4 @@
-module banking-lib
+module github.com/nothingprogram/banking-lib
 
 go 1.17
 
